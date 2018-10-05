@@ -1,3 +1,8 @@
+#### Name: Eskil
+ - Place: Oslo, Norway
+ - Bio: Developer
+ - GitHub: [Ryssmo](https://github.com/Ryssmo)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
